@@ -50,7 +50,7 @@
 - **Databases**: MySQL, Oracle, MS SQL, PostgreSQL  
 - **Database Administration**: Query Optimization, Database Security, Backup & Recovery  
 - **Languages**: SQL, Bash, Python  
-- **Version Control**: Git, GitHub, Sourcetree  
+- **Version Control**: Git, GitHub  
 - **Tools**: VS Code, phpMyAdmin, Workbench, XAMPP  
 - **Operating Systems**: Linux (Ubuntu), Windows  
 - **Frontend**: HTML, CSS, JavaScript, React  
