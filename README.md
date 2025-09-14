@@ -25,13 +25,13 @@
   <!-- Version Control -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Atlassian_Sourcetree_Logo.png" width="34" /> <!-- Sourcetree -->
+  <img src="https://www.vectorlogo.zone/logos/atlassian_sourcetree/atlassian_sourcetree-icon.svg" width="34" />
 
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/XAMPP_logo.svg" width="34" /> <!-- XAMPP -->
+  <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="34" />
 
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
