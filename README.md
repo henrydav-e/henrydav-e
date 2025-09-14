@@ -55,14 +55,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henrydav-e&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrydav-e&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
 ## 🌱 About Me
 I’m an aspiring professional passionate about **Data Analytics, Database Administration, UI/UX Design, and Frontend Development**.  
 Currently focused on improving my skills in **React, Tailwind CSS, and advanced SQL optimization** while building meaningful projects.  
