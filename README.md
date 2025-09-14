@@ -25,13 +25,13 @@
   <!-- Version Control -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Atlassian_Sourcetree_Logo.png" width="40" /> <!-- Sourcetree -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Atlassian_Sourcetree_Logo.png" width="34" /> <!-- Sourcetree -->
 
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/XAMPP_logo.svg" width="40" /> <!-- XAMPP -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/XAMPP_logo.svg" width="34" /> <!-- XAMPP -->
 
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
@@ -41,7 +41,7 @@
 
   <!-- UI/UX & Analytics -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="40" /> <!-- Tableau -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="36" /> <!-- Tableau -->
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40" /> <!-- Power BI -->
 </p>
 
