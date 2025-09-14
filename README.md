@@ -61,9 +61,23 @@ Currently focused on improving my skills in **React, Tailwind CSS, and advanced 
 
 ---
 
-## 📂 Projects
-- [🌐 Portfolio Website](https://davecapilitan-portfolio.vercel.app)  
-- 🚧 More projects coming soon...  
+## 📂 Featured Projects
+
+### 📊 Oracle SQL – Academic Project  
+**Role:** Database Developer  
+**Tech:** Oracle, VirtualBox  
+
+---
+
+### 🛒 E-commerce Website – Project Manager & UI/UX Designer  
+**Role:** Project Manager & Designer  
+**Tech:** HTML, CSS, JavaScript, PHP, MySQL, XAMPP  
+
+---
+
+### 🥚 Capstone Research Project – Principal Investigator  
+**Role:** Lead Researcher  
+**Tech:** Python, GoDaddy  
 
 ---
 
@@ -77,3 +91,6 @@ Currently focused on improving my skills in **React, Tailwind CSS, and advanced 
   </a>
 </p>
 
+---
+
+⭐️ From [henrydav-e](https://github.com/henrydav-e)
