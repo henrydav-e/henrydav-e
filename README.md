@@ -40,10 +40,13 @@
 ## ⚙️ Full Skill Set
 - **Databases**: MySQL, Oracle, MS SQL, PostgreSQL  
 - **Database Administration**: Query Optimization, Database Security, Backup & Recovery  
-- **Languages & Tools**: SQL, Bash, Python, Git, GitHub, phpMyAdmin, Workbench, XAMPP  
+- **Languages**: SQL, Bash, Python  
+- **Version Control**: Git, GitHub, Sourcetree  
+- **Tools**: VS Code, phpMyAdmin, Workbench, XAMPP  
+- **Operating Systems**: Linux (Ubuntu), Windows  
 - **Frontend**: HTML, CSS, JavaScript, React  
 - **UI/UX Design**: Wireframing & Prototyping (Figma)  
-- **Data Analytics**: Power BI, Tableau  
+- **Data Analytics**: Power BI, Tableau 
 
 ---
 
@@ -91,7 +94,3 @@ Currently focused on improving my skills in **React, Tailwind CSS, and advanced 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
-
-⭐️ From [henrydav-e](https://github.com/henrydav-e)
