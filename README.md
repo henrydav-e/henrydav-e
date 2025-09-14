@@ -50,12 +50,13 @@
 - **Databases**: MySQL, Oracle, MS SQL, PostgreSQL  
 - **Database Administration**: Query Optimization, Database Security, Backup & Recovery  
 - **Languages**: SQL, Bash, Python  
-- **Version Control**: Git, GitHub  
+- **Version Control**: Git, GitHub, Sourcetree  
 - **Tools**: VS Code, phpMyAdmin, Workbench, XAMPP  
 - **Operating Systems**: Linux (Ubuntu), Windows  
 - **Frontend**: HTML, CSS, JavaScript, React  
 - **UI/UX Design**: Wireframing & Prototyping (Figma)  
-- **Data Analytics**: Power BI, Tableau 
+- **Data Analytics**: Excel (VLookup, Conditional Formatting, Pivot Tables),  
+  Python (Pandas, NumPy, SciPy, Matplotlib), Power BI, Tableau 
 
 ---
 
