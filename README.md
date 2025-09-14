@@ -66,10 +66,9 @@
 - Problem-Solving  
 - Collaboration & Communication  
 - Time Management  
-
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
 ### 📊 Oracle SQL – Academic Project  
 **Role:** Database Developer  
