@@ -21,6 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
 
@@ -39,7 +40,7 @@
 ## ⚙️ Full Skill Set
 - **Databases**: MySQL, Oracle, MS SQL, PostgreSQL  
 - **Database Administration**: Query Optimization, Database Security, Backup & Recovery  
-- **Languages & Tools**: SQL, Bash, Python, phpMyAdmin, Workbench, XAMPP  
+- **Languages & Tools**: SQL, Bash, Python, Git, GitHub, phpMyAdmin, Workbench, XAMPP  
 - **Frontend**: HTML, CSS, JavaScript, React  
 - **UI/UX Design**: Wireframing & Prototyping (Figma)  
 - **Data Analytics**: Power BI, Tableau  
