@@ -69,12 +69,6 @@
 
 ---
 
-## 🌱 About Me
-I’m an aspiring professional passionate about **Data Analytics, Database Administration, UI/UX Design, and Frontend Development**.  
-Currently focused on improving my skills in **React, Tailwind CSS, and advanced SQL optimization** while building meaningful projects.  
-
----
-
 ## 📂 Featured Projects
 
 ### 📊 Oracle SQL – Academic Project  
