@@ -69,13 +69,13 @@ Currently focused on improving my skills in **React, Tailwind CSS, and advanced 
 
 ---
 
-### 🛒 E-commerce Website – Project Manager & UI/UX Designer  
+### 🛒 E-commerce Website - Academic Project
 **Role:** Project Manager & Designer  
 **Tech:** HTML, CSS, JavaScript, PHP, MySQL, XAMPP  
 
 ---
 
-### 🥚 Capstone Research Project – Principal Investigator  
+### 🥚 Capstone Research - Academic Project
 **Role:** Lead Researcher  
 **Tech:** Python, GoDaddy  
 
