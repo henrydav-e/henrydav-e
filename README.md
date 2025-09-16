@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dave Capilitan</h1>
 <h3 align="center">Aspiring Data Analyst | Database Administrator | UI/UX Designer | Frontend Developer</h3>
 
-<p align="center">
-  <a href="https://davecapilitan-portfolio.vercel.app" target="_blank">
-    🌐 Visit My Portfolio
-  </a>
-</p>
-
 ---
 
 ## 🛠 Technical Skills
