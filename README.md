@@ -80,3 +80,18 @@
 **Tech:** Python, GoDaddy  
 
 ---
+
+## 💼 Experience
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
+  <img src="https://img.icons8.com/color/48/canva.png" width="40"/>
+</p>
+
+### 🎨 UI/UX Intern – ROC.PH Digital Marketing Services  
+**Feb 2025 – May 2025**  
+- Designed responsive web layouts and mockups using **Figma, Photoshop, and Canva**.  
+- Collaborated with developers to integrate front-end interfaces with backend databases.  
+- Assisted in structuring data models to ensure compatibility between UI features and database requirements.  
+
+---
