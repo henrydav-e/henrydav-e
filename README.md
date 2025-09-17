@@ -82,11 +82,6 @@
 ---
 
 ## 💼 Experience
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
-  <img src="https://img.icons8.com/color/48/canva.png" width="40"/>
-</p>
 
 ### 🎨 Creative Mulltimedia Intern – ROC.PH Digital Marketing Services  
 **Feb 2025 – May 2025**  
