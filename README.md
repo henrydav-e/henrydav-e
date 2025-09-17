@@ -42,7 +42,6 @@
 
 ## ⚙️ Full Skill Set
 - **Databases**: MySQL, Oracle, MS SQL, PostgreSQL  
-- **Database Administration**: Query Optimization, Database Security, Backup & Recovery  
 - **Languages**: SQL, Bash, Python  
 - **Version Control**: Git, GitHub  
 - **Tools**: VS Code, phpMyAdmin, Workbench, XAMPP  
