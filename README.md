@@ -91,6 +91,6 @@
 ### 🎨 Creative Mulltimedia Intern – ROC.PH Digital Marketing Services  
 **Feb 2025 – May 2025**  
 - Designed responsive web layouts and mockups using **Figma**.  
-- Designed poster for clients  
+- Designed poster for clients using **Photoshop and Canva**.
 
 ---
