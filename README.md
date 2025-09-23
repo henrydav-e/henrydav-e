@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on data analysis projects and building my portfolio website.  <br>🤝 I’m looking to collaborate on database management tools and analytics dashboards.  <br>👐 I’m looking for help with optimizing SQL queries and exploring cloud databases.  <br>🌱 I’m currently learning React, advanced MySQL, and Python for data analysis.  <br>💬 Ask me about databases, SQL, UI/UX design, or getting started in web development.  <br>⚡ Fun fact: I enjoy turning messy data into clear stories and sleek visuals.  <br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dave-capilitan/) 
 
